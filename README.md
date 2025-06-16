@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sushith Karuvelil Suthan
 
-🎯 *Data Engineer | Cloud Specialist | AI Platform Engineer
+🎯 **Data Engineer | Cloud Specialist | AI Platform Engineer**
+---
 
 I'm a Data Engineer with 4+ years of experience designing and scaling data pipelines across cloud platforms like **AWS**, **GCP**, and **Azure** I thrive at the intersection of **big data**, **machine learning**, and **real-time analytic**s—turning raw data into reliable, actionable insights.
 
@@ -10,8 +11,8 @@ I'm a Data Engineer with 4+ years of experience designing and scaling data pipel
 
 
 
-## 🧰 Tech Toolbox
-
+## 🧰 Tech Toolbox<
+<!--
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)  
@@ -24,16 +25,6 @@ I'm a Data Engineer with 4+ years of experience designing and scaling data pipel
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
-#### GCP Services  
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white)  
-![Compute Engine](https://img.shields.io/badge/Compute%20Engine-4285F4?style=flat&logo=googlecloud&logoColor=white)  
-![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-34A853?style=flat&logo=googlecloud&logoColor=white)  
-![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-FFCA28?style=flat&logo=googlecloud&logoColor=white)  
-![Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-34A853?style=flat&logo=googlecloud&logoColor=white)  
-![Cloud Pub/Sub](https://img.shields.io/badge/Pub/Sub-34A853?style=flat&logo=googlecloud&logoColor=white)  
-![Kubernetes Engine](https://img.shields.io/badge/Kubernetes%20Engine-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-![Cloud SQL](https://img.shields.io/badge/CloudSQL-00758F?style=flat&logo=mysql&logoColor=white)
 
 ---
 
@@ -80,7 +71,17 @@ I'm a Data Engineer with 4+ years of experience designing and scaling data pipel
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ---
+-->
 
+## 🧰 Tech Toolbox
+
+| 💻 Languages | ☁ Cloud & Infra | ☁ Azure Services | ☁ GCP Services | 🧠 AI/ML | 🛠 Big Data & ETL | 🗄 Databases | 📊 BI | ⚙ DevOps |
+|-------------|------------------|-------------------|----------------|----------|------------------|--------------|--------|------------|
+| ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white&style=flat) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat) | ![ADF](https://img.shields.io/badge/-ADF-0078D4?logo=microsoftazure&logoColor=white&style=flat) | ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?logo=googlecloud&logoColor=white&style=flat) | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat) | ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white&style=flat) | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat) | ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat) | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat) |
+| ![SQL](https://img.shields.io/badge/-SQL-025E8C?logo=postgresql&logoColor=white&style=flat) | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat) | ![Synapse](https://img.shields.io/badge/-Synapse-0078D4?logo=microsoftazure&logoColor=white&style=flat) | ![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-34A853?logo=googlecloud&logoColor=white&style=flat) | ![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white&style=flat) | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat) | ![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?logo=amazon-aws&logoColor=white&style=flat) | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) |
+| ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=flat) | ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat) | ![Data Lake](https://img.shields.io/badge/-Data%20Lake-0078D4?logo=microsoftazure&logoColor=white&style=flat) | ![Composer](https://img.shields.io/badge/-Composer-34A853?logo=googlecloud&logoColor=white&style=flat) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat) | ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) |        | ![CI/CD](https://img.shields.io/badge/-CI%2FCD-blue?logo=github&logoColor=white&style=flat) |
+| ![Java](https://i
+---
 
 
 
@@ -94,11 +95,11 @@ I'm a Data Engineer with 4+ years of experience designing and scaling data pipel
 
 ---
 
----
-
 
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sushithks&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sushithks&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushithks&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sushithks" /></p>
