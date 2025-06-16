@@ -11,7 +11,7 @@ I'm a Data Engineer with 4+ years of experience designing and scaling data pipel
 
 
 
-## 🧰 Tech Toolbox<
+## 🧰 Tech Toolbox
 <!--
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)  
@@ -85,11 +85,12 @@ I'm a Data Engineer with 4+ years of experience designing and scaling data pipel
 
 ## 🚀 What I Do
 
-- 🔄 Build and automate scalable ETL/ELT workflows using *Spark, **Kafka, **Python, and **Scala*
-- ☁ Architect data solutions on *GCP, **AWS, and **Azure*
-- 🤖 Develop GenAI apps using *OpenAI, **LangChain, and **Vector DBs*
+- 🔄 Build and automate scalable ETL/ELT workflows using **Spark**, **Kafka**, **Python** and **Scala**
+- ☁ Architect data solutions on **GCP**, **AWS**, and **Azure**
+- 🤖 Develop GenAI apps using **OpenAI**, **LangChain**, and **Vector DBs***
+- 📊 Enable business intelligence with **Power BI**, **Tableau**, **Snowflake**, and more
 - 🛡 Ensure data privacy, governance, and regulatory compliance
-- 📊 Enable business intelligence with *Power BI, **Tableau, **Snowflake*, and more
+
 
 ---
 
