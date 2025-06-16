@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sushith Karuvelil Suthan
 
-🎯 *Data Engineer | Cloud Specialist | AI Platform Engineer*
+🎯 *Data Engineer | Cloud Specialist | AI Platform Engineer
 
-I'm a Data Engineer with 4+ years of experience designing and scaling data pipelines across cloud platforms like *AWS, **GCP, and **Azure. I thrive at the intersection of **big data, **machine learning, and **real-time analytics*—turning raw data into reliable, actionable insights.
+I'm a Data Engineer with 4+ years of experience designing and scaling data pipelines across cloud platforms like **AWS**, **GCP**, and ##. I thrive at the intersection of **big data**, **machine learning**, and **real-time analytic**s—turning raw data into reliable, actionable insights.
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=sushithks&color=blue) -->
@@ -37,15 +37,47 @@ I'm a Data Engineer with 4+ years of experience designing and scaling data pipel
 
 ## 🧰 Tech Toolbox
 
-```text
-Languages     : Python, SQL, Scala, Java
-Cloud         : AWS, GCP, Azure
-Big Data      : Apache Spark, Kafka, Hadoop, Hive, Impala
-ETL Tools     : Azure Data Factory, Informatica, Apache NiFi
-Databases     : BigQuery, PostgreSQL, Snowflake, MongoDB
-AI/ML         : LangChain, OpenAI APIs, TensorFlow, PyTorch
-DevOps        : GitHub Actions, Docker, CI/CD Pipelines
-Visualization : Power BI, Tableau
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+### ☁ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+### 🧠 Machine Learning & GenAI
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+### 🛠 Big Data & ETL
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)
+![Informatica](https://img.shields.io/badge/Informatica-E34F26?style=flat)
+![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=azuredevops&logoColor=white)
+
+### 🗄 Databases & Storage
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=google-cloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+### ⚙ DevOps & Tools
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=flat&logo=github&logoColor=white)
+
+---
+
 
 <h3>My GitHub contributions summary</h3>
 
