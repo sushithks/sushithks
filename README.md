@@ -3,7 +3,7 @@
 🎯 **Data Engineer | Cloud Specialist | AI Platform Engineer**
 ---
 
-I'm a Data Engineer with 4+ years of experience designing and scaling data pipelines across cloud platforms like **AWS**, **GCP**, and **Azure** I thrive at the intersection of **big data**, **machine learning**, and **real-time analytic**s—turning raw data into reliable, actionable insights.
+I'm a Data Engineer with 4+ years of experience designing and scaling data pipelines across cloud platforms like **AWS**, **GCP**, and **Azure**. I have hands-on expertise in **Snowflake** for building performant, scalable data warehousing solutions. I thrive at the intersection of **big data**, **machine learning**, and **real-time analytic**s—turning raw data into reliable, actionable insights.
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=sushithks&color=blue) -->
